@@ -1,0 +1,23 @@
+/*_____________________________________________________Media queries___________________________________________________________*/
+																																		/*_______Smartphones_______*/
+@media only screen and (max-width: 320px) {
+/*=======Styles go here=======*/
+body{
+	background: #FFF6F3;
+}
+}
+																																		/*_______Tablets______*/
+@media only screen and (min-width: 321px) and (max-width: 480px) {
+/*=======Styles go here=======*/
+body{
+	background: #E5DDDB;
+}
+}
+																																		/*_______Medium devices_______*/
+@media only screen and (min-width: 481px) and (max-width: 1200px) {
+/*=======Styles go here=======*/
+body{
+	background: #CCC5C2;
+}
+}
+/*____________________________________________________C l a s s selectors____________________________________________________________*/
